@@ -1,7 +1,7 @@
 
 # Exercise 2 - Dashboard Performance Optimization
 
-This repository contains the code for a data visualization exercise for the Data Visualization position at 21.co. The project demonstrates the use of Streamlit for real-time data visualization, including complex initial data processing and real-time OHLCV (Open, High, Low, Close, Volume) chart updates for cryptocurrency data. It also includes `query.py` for potential SQL queries, even though database integration is not currently implemented.
+The project demonstrates the use of Streamlit for real-time data visualization, including complex initial data processing and real-time OHLCV (Open, High, Low, Close, Volume) chart updates for cryptocurrency data. It also includes `query.py` for potential SQL queries, even though database integration is not currently implemented.
 
 ## Exercise Instructions
 
